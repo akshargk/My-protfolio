@@ -26,3 +26,4 @@ A responsive portfolio website showcasing my projects and skills as a web develo
 1. Clone the repository
 2. Open `index.html` in your browser
 3. Enjoy exploring my work!
+
